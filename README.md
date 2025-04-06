@@ -2,5 +2,5 @@
 - 👀 I’m interested in software Developing
 - 🌱 I’m currently learning React and tailwind
 - 💞️ I’m looking to collaborate on Fronend Projects
-- 📫 How to reach me Gmail-harshranjan72005@gmail.com
+- 📫 How to reach me Gmail- harshranjan72005@gmail.com
 - 😄 Pronouns: he/him
